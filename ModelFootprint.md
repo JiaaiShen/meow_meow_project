@@ -27,9 +27,7 @@ If **100,000 users** interact with the Meow Meow model, the energy cost (1.152 k
 - Using a **laptop (50W)** for about **23 hours**, or  
 - Running a **100W appliance** for **half a day**
 
-With the global average carbon intensity of the electricity grid at **0.475 kg CO₂ per kWh**, the associated emissions would be:
-
-> **0.55 kg CO₂**, which is approximately equivalent to the CO₂ absorbed by a **tree in one week**.
+With the global average carbon intensity of the electricity grid at **0.475 kg CO₂ per kWh**, the associated emissions would be **0.55 kg CO₂**, which is approximately equivalent to the CO₂ absorbed by a **tree in one week**.
 
 ---
 
