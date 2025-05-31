@@ -1,4 +1,4 @@
-#  Model Card for Meow Meow Translator
+#  Model Card for Meow Decoder
 A model built on an audio feature extractor and CNN that helps translate cat sounds into emotions for people to better understand what their furry friends are feeling and take better care of them.
 
 ## Model Details 
