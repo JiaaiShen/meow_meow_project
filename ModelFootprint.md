@@ -22,7 +22,7 @@ To estimate the energy cost per user interaction with the deployed model:
 | 1,000            | 0.01152                 |
 | 100,000          | 1.152                   |
 
-If **100,000 users** interact with the Meow Meow model, the energy cost (1.152 kWh) is roughly the same as:
+If **100,000 users** interact with MeowDecoder, the energy cost (1.152 kWh) is roughly the same as:
 
 - Using a **laptop (50W)** for about **23 hours**, or  
 - Running a **100W appliance** for **half a day**
